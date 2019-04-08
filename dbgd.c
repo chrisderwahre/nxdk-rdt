@@ -18,7 +18,7 @@
 #include <stdlib.h>
 #include <xboxkrnl/xboxkrnl.h>
 #include <xboxrt/debug.h>
-#include <xboxrt/string.h>
+#include <xboxrt/strings.h>
 
 #include "dbg.pb-c.h"
 #include "net.h"
